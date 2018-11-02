@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e88e5</color>
+    <color name="colorPrimaryDark">#005cb2</color>
+    <color name="colorPrimaryLight">#6ab7ff</color>
+    <color name="colorAccent">#ffd000</color>
+    <color name="colorAccentLight">#ffff6b</color>
+    <color name="colorAccentDark">#c6a700</color>
+    <color name="list_text_color">#333</color>
+
+    <!--Folded page effect -->
+    <color name="first_color">#c7c7c7</color>
+    <color name="second_color">#898989</color>
+    <color name="third_color">#FFFFFF</color>
+
+</resources>
